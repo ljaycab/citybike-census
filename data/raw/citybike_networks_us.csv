@@ -1,0 +1,57 @@
+network_id,name,city,state_abbr,n_stations,total_docks,pct_missing_capacity
+citi-bike-nyc,Citi Bike,New York,NY,2468,73801.0,0.0
+divvy,Divvy,Chicago,IL,2074,22411.0,0.0
+capital-bikeshare,Capital BikeShare,Washington,DC,873,14807.0,0.0
+bay-wheels,Bay Wheels,San Francisco Bay Area,CA,655,14310.0,0.0
+blue-bikes,Blue Bikes,Boston,MA,625,10968.0,0.0
+indego,Indego,Philadelphia,PA,322,5406.0,0.0
+biketown,BIKETOWN,Portland,OR,308,3469.0,0.0
+metro-bike-share,Metro Bike Share,Los Angeles,CA,223,3271.0,0.0
+bublr-bikes,Bublr Bikes,Milwaukee,WI,173,1734.0,0.0
+peacehealth-rides,PeaceHealth Rides,Eugene,OR,167,1647.0,0.0
+citi-bike-miami,Citi Bike Miami,Miami,FL,166,2582.0,0.0
+reddy-bike-share,Reddy Bike Share,Buffalo,NY,144,888.0,0.0
+gobiki,Biki,Honolulu,,133,2412.0,0.0
+madison,BCycle,Madison,WI,112,1061.0,0.0
+sobi-long-beach,SoBi,Long Beach,CA,106,991.0,0.0
+santa-barbara,Santa Barbara BCycle,Santa Barbara,CA,104,656.0,0.0
+we-cycle,WE-cycle,Aspen,CO,101,1418.0,0.0
+capmetro-austin,CapMetro Bikeshare,Austin,TX,87,1229.0,0.0
+omaha,Heartland BCycle,Omaha,NE,84,765.0,0.0
+mogo-detroit,MoGo,Detroit,MI,81,1059.0,0.0
+cincy-red-bike,Cincy Red Bike,Cincinnati,OH,80,931.0,0.0
+boulder,Boulder BCycle,Boulder,CO,76,893.0,0.0
+greenbikeslc,GREENbike,Salt Lake City,,72,1172.0,0.0
+santa-cruz,Santa Cruz BCycle,Santa Cruz,CA,71,692.0,0.0
+denver,Lyft,Denver,CO,66,1046.0,0.0
+pittsburgh,Pogoh,Pittsburgh,PA,60,1072.0,0.0
+fortworth,Trinity Metro Bikes,Fort Worth,TX,57,744.0,0.0
+indiana-pacers-bikeshare,Indiana Pacers Bikeshare,Indianapolis,IN,56,837.0,0.0
+bike-chattanooga,Bike Chattanooga,Chattanooga,TN,43,695.0,0.0
+tugo-bike-share,Tugo Bike Share,Tucson,AZ,40,537.0,0.0
+rtc-bike-share,RTC Bike Share,Las Vegas,NV,38,349.0,0.0
+nashville,Nashville BCycle,Nashville,TN,36,422.0,0.0
+joco-new-york,JOCO New York,New York,,35,915.0,0.0
+desmoines,Des Moines BCycle,Des Moines,IA,31,302.0,0.0
+bentonville,Bentonville BCycle,Bentonville,AR,30,419.0,0.0
+memphis,Explore Bike Share,Memphis,TN,30,203.0,0.0
+summit-bike-share,Summit Bike Share,Park City,UT,26,386.0,0.0
+biketown-whq,Biketown WHQ (Nike campus),Beaverton,OR,26,1065.0,0.0
+hibike,Hibike,Kailua-Kona,,23,360.0,0.0
+rva-bikes,RVA Bike Share,Richmond,VA,22,286.0,0.0
+redding,Redding BCycle,Redding,CA,22,106.0,0.0
+lincoln,BikeLNK,Lincoln,NE,21,224.0,0.0
+elpaso,El Paso BCycle,El Paso,TX,20,182.0,0.0
+sanantonio,SWell Cycle,San Antonio,TX,18,228.0,0.0
+wolf-ride-bike-share,Wolf Ride Bike Share (Stony Brook University),Stony Brook,,14,290.0,0.0
+greenville,Greenville BCycle,Greenville,SC,12,113.0,0.0
+clemson,Clemson University Bike Share,Clemson,SC,12,114.0,0.0
+mcallen,RGV BCycle,McAllen,TX,7,53.0,0.0
+bismarck,BisPArks BCycle,Bismarck,ND,3,61.0,0.0
+aventura,Aventura BCycle,Aventura,FL,2,23.0,0.0
+broward,Broward BCycle,Fort Lauderdale,FL,1,13.0,0.0
+lime-san-francisco,Lime San Francisco,San Francisco,CA,1,,1.0
+lime-seattle,Lime Seattle,Seattle,WA,1,,1.0
+jackson,Jackson County BCycle,Jackson,MI,1,6.0,0.0
+lime-portland,Lime Portland,Portland,OR,1,,1.0
+valentine,Valentine BCycle,Valentine,NE,1,6.0,0.0
